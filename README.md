@@ -1,2 +1,2 @@
-# OTR
-My scripts
+# DE
+script
